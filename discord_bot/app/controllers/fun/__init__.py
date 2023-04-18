@@ -1,6 +1,6 @@
 # /app/controllers/fun/__init__.py
 from discord.ext.commands import Cog, Bot, Context
-from app.controllers.fun import ping as Ping, cat as Cat, shibe as Shibe
+from app.controllers.fun import ping as Ping, cataas as Cat, shibe as Shibe
 from discord.ext import commands
 import random
 
